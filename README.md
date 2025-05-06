@@ -12,3 +12,6 @@ This R script is used during the GWAS_COJO pipeline to create summary statistics
 
 ## Multi plot Manhattan
 This R script creates customized Manhattan plots with the summary statistics from different cohorts/analayses that you want to plot together. You can highlight specific peaks, label peaks or SNPs, customize colours, change the height of plots, and more. File name = "multi_plot_manhattan.R"
+
+## Citation
+Somerville, E.N., Krohn, L., Senkevich, S., Yu, E., Ahmad, J., Asayesh, F., et al. (2025) Genome-wide association study of glucocerebrosidase activity modifiers. Molecular Neurobiology. https://doi.org/10.1007/s12035-025-04996-1
